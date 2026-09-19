@@ -6,56 +6,10 @@
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
-      "key": "豆瓣2",
-      "name": "📢如果失效等候更新或者在线更新本地包防失效",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
       "key": "央视",
       "name": "🥇央视丨影视",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py"
-    },
-    {
-      "key": "py_文才",
-      "name": "🥇文才｜影视",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
-      }
-    },
-    {
-      "key": "枫叶",
-      "name": "🥇枫叶丨影视",
-      "type": 3,
-      "api": "./lib/枫叶.py"
-    },
-    {
-      "key": "急救教学",
-      "name": "🚑急救｜教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "gridview": "0-0-4.1"
-    },
-    {
-      "key": "豆瓣4",
-      "name": "📢长期维护切勿贩卖",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
     }
   ]
 }
