@@ -1,6 +1,6 @@
 {
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0817/00/fe8b776f4699fd4ec650082996a2603d.jpg;md5;22d348f59ca7071081b389840b0b05f5",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
       "key": "央视",
