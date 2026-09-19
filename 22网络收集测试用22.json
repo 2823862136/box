@@ -1,9 +1,6 @@
 {
-  "logo": "https://ncstatic-file.clewm.net/rsrc/2025/0930/20/945a6372224243d3f3d63cb309c0b7b1.png",
   "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0817/00/fe8b776f4699fd4ec650082996a2603d.jpg;md5;22d348f59ca7071081b389840b0b05f5",
-  "warningText": "如果失效等候更新或者在线更新本地包防失效提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
       "key": "央视",
