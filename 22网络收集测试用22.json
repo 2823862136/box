@@ -13,6 +13,99 @@
       "searchable": 0
     },
     {
+      "key": "豆瓣1",
+      "name": "📢公告❤更新0814❤",
+      "type": 3,
+      "api": "csp_Notice",
+      "searchable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/f3b31497ca266ea4f8a89c88e9385f48.jpg;md5;ff4f99fad585f4935fcaa06e3092e44a",
+      "ext": "https://aaa.v.nxog.top/m/公告?b=如果失效等候更新或者在线更新本地包防失效"
+    },
+    {
+      "key": "config",
+      "name": "🐲歌配置｜中心",
+      "type": 3,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg;md5;c96b69de5ace48bcf0e522147364e048",
+      "api": "csp_Config",
+      "searchable": 0
+    },
+    {
+      "key": "配置中心",
+      "name": "❤配置｜中心",
+      "type": 3,
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "csp_wogg1",
+      "name": "🐲玩歌｜4K弹幕",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg;md5;c96b69de5ace48bcf0e522147364e048",
+      "ext": {
+        "site_urls": [
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz",
+          "https://woog.装歌.de5.net",
+          "https://ogkk.nxog.fun"
+        ],
+        "url_key": "wogg1",
+        "threadinfo": {
+          "chunksize": 453,
+          "threads": 16
+        }
+      }
+    },
+    {
+      "key": "csp_woog2",
+      "name": "🐲装歌｜4K弹幕",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0810/15/d4ef68f275be721a92f218de955a8328.jpg;md5;c96b69de5ace48bcf0e522147364e048",
+      "ext": {
+        "site_urls": [
+          "https://ogkk.nxog.fun",
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.430520.xyz",
+          "https://ogkk.装歌.de5.net",
+          "https://woog.430520.xyz"
+        ],
+        "url_key": "woog2",
+        "threadinfo": {
+          "chunksize": 464,
+          "threads": 16
+        }
+      }
+    },
+    {
+      "key": "夸快夸快",
+      "name": "❤夸快｜4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0817/00/fe8b776f4699fd4ec650082996a2603d.jpg;md5;22d348f59ca7071081b389840b0b05f5",
+      "ext": {
+        "site": [
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.nxog.fun",
+          "https://woog.歌.de5.net"
+        ]
+      }
+    },
+    {
       "key": "热播影视",
       "name": "💡热播｜影视",
       "type": 3,
